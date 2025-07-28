@@ -30,12 +30,7 @@ A interface conta com:
 
 ## 🚀 Como usar
 
-1. Clone ou baixe este repositório.
-2. Abra o arquivo `index.html` em qualquer navegador moderno.
-3. Digite os nomes dos participantes.
-4. Clique em **Adicionar** para montar a lista.
-5. Clique em **Sortear amigo** para ver um nome aleatório.
-6. Use **Limpar** para reiniciar o jogo.
+Acessar o link do jogo online: (https://kauesiqueira54.github.io/Challenge-amigo-secreto-ONE/)
 
 ## 🛠 Tecnologias Utilizadas
 
